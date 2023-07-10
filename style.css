@@ -1,0 +1,35 @@
+body{margin: 0;}
+
+
+.banner{
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-between;
+    padding:  90px 140px 0px 140px;  
+}
+
+
+.banner p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin: 0px;
+    padding: 30px 0px;
+}
+
+.banner h3{
+    color: #272727;
+    font-size: 60px;
+    font-weight: 800;
+    margin: 0px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular' 
+}
+
+.btn-primary{
+    padding: 15px 30px;
+    border-radius: 8px;
+    background:  #E55473;
+    border: none;
+    color: white;
+}
+
+/* ........... banner end ....... *\
