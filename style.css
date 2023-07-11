@@ -84,11 +84,38 @@ body{margin: 0;}
  margin: 130px 150px;
 }
 
-.cards{
+.flowers{
     display: flex;
     justify-content: space-between;
 }
 
-.cards img{
+.flowers img{
 width: 270px;
 }
+ 
+/*..... Latest deal ..... */
+
+.latestDeal{
+    background-image: url(Images/Rectangle\ 9.png);
+    background-repeat: no-repeat;    
+    margin:  0px 150px 50px 150px ;
+    padding: 120px 280px;
+    border-radius: 10px;
+}
+
+.email-field{
+    border-radius: 8px;
+    background: #FFF;
+    border: none;
+    padding: 16px 350px 16px 15px;
+    margin-right: 5px ;
+}
+
+.inputField{
+    margin: auto;
+}
+/* ........end........*/
+
+
+/* .......footer ..... */
+
