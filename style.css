@@ -5,7 +5,11 @@ body{margin: 0;}
     background: rgba(229, 84, 115, 0.10);
     display: flex;
     justify-content: space-between;
-    padding:  90px 140px 0px 140px;  
+    padding:  90px 100px 0px 100px;  
+}
+
+.bannerImage{
+    width: 400px;
 }
 
 
@@ -33,6 +37,55 @@ body{margin: 0;}
 }
 
 /* ........... banner end ....... *\
+
+/*  featured flowers */
+
+.Featured-flowers{
+    margin:  100px 150px 100px 150px ;
+
+}
+
+.flower-cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.flower-cards img{
+    width: 250px;
+    margin-bottom: 15px;
+}
+
+.flower-cards a{
+
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+
+.yellow{
+    padding: 30px 40px 0px 40px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+.bouquet{
+    padding: 60px 40px 75px 40px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.pink{
+    padding: 40px 40px 0px 40px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15)
+}
+
+/* .....end ...........*/
+
 
 /* hot deal section  */
 
