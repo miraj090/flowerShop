@@ -98,7 +98,7 @@ width: 270px;
 .latestDeal{
     background-image: url(Images/Rectangle\ 9.png);
     background-repeat: no-repeat;    
-    margin:  0px 150px 50px 150px ;
+    margin:  0px 150px 100px 150px ;
     padding: 120px 280px;
     border-radius: 10px;
 }
@@ -118,4 +118,33 @@ width: 270px;
 
 
 /* .......footer ..... */
+footer{
+    background-color: #111010;
+    text-align: center;
+    padding: 80px 0px
+}
 
+footer h3{
+    color: white;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+footer h3 span{
+    color: #E55473;
+
+}
+
+.footerDescription{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.copyrights{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+
+}
